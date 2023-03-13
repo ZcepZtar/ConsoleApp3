@@ -14,6 +14,7 @@ namespace ConsoleApp3
             Console.WriteLine("I am 'The Word'");
             Console.WriteLine("Solar Purity is Everything");
             Console.WriteLine("KONO DIO DA");
+            Console.WriteLine("Close this = you are gay");
             Console.ReadLine();
         }
     }
