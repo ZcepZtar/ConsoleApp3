@@ -12,6 +12,7 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello Word");
             Console.WriteLine("I am 'The Word'");
+            Console.WriteLine("Solar Purity is Everything");
         }
     }
 }
