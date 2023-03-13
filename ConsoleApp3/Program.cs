@@ -16,6 +16,7 @@ namespace ConsoleApp3
             Console.WriteLine("KONO DIO DA");
             Console.WriteLine("Close this = you are gay");
             Console.WriteLine("Den nye owner er kida gay ngl");
+            Console.WriteLine("Min pointe er meget korrekt");
             Console.ReadLine();
         }
     }
